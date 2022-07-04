@@ -1,0 +1,1 @@
+# equipe-design-system
