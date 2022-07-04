@@ -1,0 +1,19 @@
+{
+  "name": "equipe-design-system",
+  "version": "0.0.1",
+  "description": "Simple design system",
+  "main": "index.js",
+  "authors": {
+    "name": "Enes",
+    "email": "enes.bek.93@gmail.com"
+  },
+  "repository": "equipe-design-system/Equipe Design System",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
